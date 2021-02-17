@@ -2,7 +2,7 @@
 
 
 
-I am a Data Scientist aspirant. My carrer includes many jobs as a volunteer, as an electronic technician and more than 7 years of clinical service as a psychologist / psychoanalyst. In my master degree I was introduced to statistics and machine learning, which in the future will motivate me to invest in data science. My main goal is to unite my human sensibility and my logical side to find solutions to different kinds of problems using data science.  
+**I am a Data Scientist aspirant. My carrer includes many jobs as a volunteer, as an electronic technician and more than 7 years of clinical service as a psychologist / psychoanalyst. In my master degree I was introduced to statistics and machine learning, which in the future will motivate me to invest in data science. My main goal is to unite my human sensibility and my logical side to find solutions to different kinds of problems using data science.**  
 
 
 
