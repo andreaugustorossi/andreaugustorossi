@@ -12,8 +12,8 @@ I am a Data Scientist aspirant. My carrer includes many jobs as a volunteer, as 
   <a href="https://www.linkedin.com/in/andre-augusto-rossi" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://github.com/andreaugustorossi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@andreaugustorossi-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="mailto:andreaugustorossi@gmail.com?subject=Hello%20Alan,%20From%20Github" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanmiti@gmail.com"></a>
-  
-  
+
+---
 ## Tools
 <p align="left">
  <table>
