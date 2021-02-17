@@ -1,5 +1,4 @@
-<h1 align="center"> André Augusto Rossi </h1>
-<h2 align="center"> Data Scientist | MD in Psychology </h2>
+![](andre.png)
 
 
 
